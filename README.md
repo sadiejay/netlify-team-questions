@@ -40,18 +40,19 @@
 - What experience and skills are a must-have immediately?
 ### 🗣 Communication:
 - How often do you have meetings? Are there any scheduled/standing meetings?
-- How often do you pair program?
+- How often do you pair (or mob 👀) program?
 - As a remote team, what project management tools do you use to collaborate and manage processes?
   - How do they work together and ensure good communication and collaboration?
 ### 🥳 General:
-- What do you like about working here?
+- What do you like about working at Netlify?
+- Greatest accomplishment since starting at the company?
 
 <br>
 <br>
 <br>
 
 ## Relevent (maybe?) About Me
-- Here are some links to somethings I've done that I'm hoping is relevent to the role!
+- Here are some relevent (I hope) things about me!
 
 
 ### ✨ Spoke at Hacktoberfest Demo with Call For Code IBM
@@ -66,6 +67,7 @@
 - [Github Action for Open Sentencing Model](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model/commit/ce67e8058dbafc31d7143a2c6b1a64e78250dee6) - I had fun learning how to write in yml and create an action. 10/10 would do again.
 ### ✨ Doing 100-days-of-code
 - [100-day-of-code](https://github.com/sadiejay/100-days-of-code) - Oops. I forogt to write in my log yesterday. I def was coding in a forked repo tho! It counts!
+  - Messed around with Liquid for the first time. Not bad!  
 
 
 <br>
