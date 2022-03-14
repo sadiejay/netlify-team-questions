@@ -30,8 +30,8 @@
 - Can you give me an example of a mistake you've made here, and how it was handled?
 - How are disagreements solved - both technical disagreements and other kinds?
 ### Skills:
-- What’s not in the JD? “Ideal candidate” isn’t described as mentioned in other JDs in Netlify. Why not?
-- This sounds like skills with customer service, content development is key, that correct?
+- What’s not in the JD? “Ideal candidate” isn’t described yet is mentioned in other JDs at Netlify. Why not?
+- Sounds like skills with communication, content development is key, that correct?
 - Technical capabilities aside, what soft skills would make someone successful in this role?
 - What experience and skills are a must-have immediately?
 ### Communication:
