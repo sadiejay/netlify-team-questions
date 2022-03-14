@@ -1,6 +1,10 @@
 # Hi 👋🏾 I'm super excited to be interviewing with yall!
 - I have a ton of questions so I made a lil Readme instead of dumping them all in an email. It's 2am and this seems like the best course of action and I'm sticking with it lol
 
+<br>
+<br>
+<br>
+
 ## Questions:
 - The questions are grouped by theme. I'd love to know _e v e r y t h i n g_ about this team and role, but I know our time is limited!
 ![Judge Judy Tapping Her Watch and Slamming the Bench](https://media.giphy.com/media/JzOyy8vKMCwvK/giphy.gif)
@@ -42,6 +46,9 @@
 ### General:
 - What do you like about working here?
 
+<br>
+<br>
+<br>
 
 ## Relevent (maybe?) About Me
 - Here are some links to somethings I've done that I'm hoping is relevent to the role!
@@ -58,5 +65,11 @@
 ### Doing 100-days-of-code
 - [100-day-of-code](https://github.com/sadiejay/100-days-of-code) - Oops. I forogt to write in my log yesterday. I def was coding in a forked repo tho! It counts!
 
-### Thank you!
+
+<br>
+<br>
+<br>
+
+## Thank you!
+Thank you for the opporunity — I'm over the moon getting to speak with you both, Tara and Prince ☺️
 ![Pusheen Thank You!](https://media.giphy.com/media/IvTIFDvulINIA/giphy.gif)
