@@ -46,8 +46,17 @@
 ## Relevent (maybe?) About Me
 - Here are some links to somethings I've done that I'm hoping is relevent to the role!
 ### Spoke at Hacktoberfest Demo with Call For Code IBM
-- [Hacktoberfest Demo with Call For Code IBM](https://www.crowdcast.io/e/hacktoberfest-demo-day/1) I present around the 12:20 mark!
+- [Hacktoberfest Demo with Call For Code IBM](https://www.crowdcast.io/e/hacktoberfest-demo-day/1) - I present around the 12:20 mark!
+### Wrote and Edited Content for Large Audiences
+- Wrote: 
+  -  emails daily for Scott's Cheap Flights which reached over 2 million subscribers.
+- Edited:
+  -  emails daily for Scott's Cheap Flights which reached over 2 million subscribers.
+  -  posts for American Documentary | POV which reached over 2 million readers
 ### Taught myself how to create a Github Action
-- [Github Action for Open Sentencing Model](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model/commit/ce67e8058dbafc31d7143a2c6b1a64e78250dee6)
+- [Github Action for Open Sentencing Model](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model/commit/ce67e8058dbafc31d7143a2c6b1a64e78250dee6) - I had fun learning how to write in yml and create an action. 10/10 would do again.
 ### Doing 100-days-of-code
-- [100-day-of-code](https://github.com/sadiejay/100-days-of-code) - Oops. I forogt to write in my log yesterday. I def was coding in a forked repo, and coding tho!
+- [100-day-of-code](https://github.com/sadiejay/100-days-of-code) - Oops. I forogt to write in my log yesterday. I def was coding in a forked repo tho! It counts!
+
+### Thank you!
+![Pusheen Thank You!](https://media.giphy.com/media/IvTIFDvulINIA/giphy.gif)
